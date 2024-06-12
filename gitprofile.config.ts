@@ -35,8 +35,8 @@ const CONFIG = {
         {
           title: 'Project Name',
          description:
-              Course Code: '',
-      Course Title: 'Journal Name',
+      Course Code: 
+      Course Title: Journal Name
            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
