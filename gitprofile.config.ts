@@ -34,6 +34,8 @@ const CONFIG = {
       projects: [
         {
           title: 'Project Name',
+           title: 'Course Code:',
+            title: 'Course Title:',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
