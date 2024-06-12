@@ -186,12 +186,12 @@ const CONFIG = {
       title: 'Ethical concerns in digital health monitoring system',
       conferenceName: '',
       journalName: 'uiu-bd.academia.edu',
-      authors: '011222215 - Touﬁq Ahmed ,011222321 - MD.Nahianul Joha, 011222279 - Sabbir Ahmed, 011222203 - Md.Saharier Iqbal ,011222259 - Fariha Nizam Prova ,011222342 - Mardia Yasmin Muna ,0112320065 - Md. Tanvir Ahmed, 0112320187 - Md. Farhadul Islam',
+      authors: '011222215 - Touﬁq Ahmed ,\n 011222321 - MD.Nahianul Joha, 011222279 - Sabbir Ahmed, 011222203 - Md.Saharier Iqbal ,011222259 - Fariha Nizam Prova ,011222342 - Mardia Yasmin Muna ,0112320065 - Md. Tanvir Ahmed, 0112320187 - Md. Farhadul Islam',
       link: 'https://www.academia.edu/112284459/Title_Ethical_concerns_in_digital_health_monitoring_system?source=swp_share',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Digital health monitoring systems are transforming the medical field, but their implementation raises ethical concerns regarding fairness, equity, privacy, and potential biases. Future healthcare professionals must be equipped to address these challenges and ensure that digital health advancements benefit all individuals. While digital health holds immense potential to revolutionize healthcare delivery, its design and implementation require careful consideration to avoid exacerbating existing disparities and promoting ethical practices. The integration of loT technologies in smart healthcare systems offers significant advantages, but it also presents new ethical challenges related to data security and privacy. Developers, users, and governments must collaborate to balance user experiences with robust ethical safeguards to ensure that the benefits of these technologies are shared equitably and responsibly. In this article, we will discuss the complexities that come with using technology in healthcare, such as wearable trackers and apps. It examines these issues from various perspectives, such as those of patients, doctors, and society as a whole. Finally, we attempt to propose some potential solutions.',
     },
-    {
+  /*  {
       title: 'Publication Title',
       conferenceName: 'Conference Name',
       journalName: '',
@@ -199,7 +199,7 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    },*/
   ],
   // Display articles from your medium or dev account. (Optional)
  /* blog: {
