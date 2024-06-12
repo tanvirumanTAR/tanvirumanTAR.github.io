@@ -170,7 +170,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'pastel',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -184,7 +184,7 @@ const CONFIG = {
     displayAvatarRing: true,
 
     // Available themes. To remove any theme, exclude from here.
-    themes: [
+    /*themes: [
       'light',
       'dark',
       'cupcake',
@@ -218,7 +218,7 @@ const CONFIG = {
       'nord',
       'sunset',
       'procyon',
-    ],
+    ],*/
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
