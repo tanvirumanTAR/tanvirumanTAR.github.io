@@ -183,11 +183,11 @@ const CONFIG = {
   ],
  publications: [
     {
-      title: 'Publication Title',
+      title: 'Ethical concerns in digital health monitoring system',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'uiu-bd.academia.edu',
+      authors: '011222215 - Touﬁq Ahmed ,011222321 - MD.Nahianul Joha, 011222279 - Sabbir Ahmed, 011222203 - Md.Saharier Iqbal ,011222259 - Fariha Nizam Prova ,011222342 - Mardia Yasmin Muna ,0112320065 - Md. Tanvir Ahmed, 0112320187 - Md. Farhadul Islam',
+      link: 'https://www.academia.edu/112284459/Title_Ethical_concerns_in_digital_health_monitoring_system?source=swp_share',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
