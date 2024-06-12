@@ -36,7 +36,8 @@ const CONFIG = {
           title: 'Project Name',
          description:
       
-      '  Course Code:EEE 2124 .Course Title:Electronics Laboratory .',
+      '  Course Code: EEE 2124.
+           Course Title: Electronics Laboratory.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -44,7 +45,8 @@ const CONFIG = {
         {
           title: 'Project Name',
          description:
-        ' Course Code:CSE 3522 .Course Title: Database Management Systems Laboratory.',
+        ' Course Code: CSE 3522.
+           Course Title: Database Management Systems Laboratory.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -53,7 +55,8 @@ const CONFIG = {
           title: 'Project Name',
          description:
  
-           ' Course Code:CSE 2118  .Course Title:Advanced Object Oriented Programming Laboratory .',
+           ' Course Code: CSE 2118.
+           Course Title:Advanced Object Oriented Programming Laboratory.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -62,7 +65,8 @@ const CONFIG = {
           title: 'Project Name',
          description:
   
-           ' Course Code:CSE 3412 .Course Title:System Analysis and Design Laboratory  .',
+           ' Course Code: CSE 3412.
+           Course Title: System Analysis and Design Laboratory.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -71,7 +75,8 @@ const CONFIG = {
           title: 'Project Name',
          description:
    
-           ' Course Code:CSE 4326.Course Title:Microprocessors and Microcontrollers Laboratory  .',
+           ' Course Code: CSE 4326.
+           Course Title: Microprocessors and Microcontrollers Laboratory  .',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -80,7 +85,8 @@ const CONFIG = {
           title: 'Project Name',
          description:
   
-           ' Course Code: CSE 3422.Course Title:Software Engineering Laboratory  .',
+           ' Course Code: CSE 3422.
+           Course Title: Software Engineering Laboratory  .',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -89,7 +95,8 @@ const CONFIG = {
           title: 'Project Name',
           description:
     
-            ' Course Code:CSE 3412 .Course Title:System Analysis and Design Laboratory  .',
+            ' Course Code: CSE 3412. 
+            Course Title:System Analysis and Design Laboratory  .',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
