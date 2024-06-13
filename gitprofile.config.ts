@@ -208,14 +208,14 @@ const CONFIG = {
     limit: 2, // How many articles to display. Max is 10.
   },*/
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-B46HXQ8BKQ', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
     id: '',
     snippetVersion: 6,
   },
-/*  themeConfig: {
+   themeConfig: {
     defaultTheme: 'pastel',
 
     // Hides the switch in the navbar
@@ -264,7 +264,7 @@ const CONFIG = {
       'nord',
       'sunset',
       'procyon',
-    ], */
+    ], 
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
