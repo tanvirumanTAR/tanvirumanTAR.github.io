@@ -215,7 +215,7 @@ const CONFIG = {
     id: '',
     snippetVersion: 6,
   },
-  themeConfig: {
+/*  themeConfig: {
     defaultTheme: 'pastel',
 
     // Hides the switch in the navbar
@@ -264,7 +264,7 @@ const CONFIG = {
       'nord',
       'sunset',
       'procyon',
-    ],
+    ], */
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
