@@ -275,7 +275,7 @@ const CONFIG = {
       secondary: '#219aaf',
       accent: '#000000',
      // accent: '#e8d03a',
-    neutral: '#2A2730',
+    neutral: '#000000',
       'base-100': '#E3E3ED',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
