@@ -269,7 +269,7 @@ const CONFIG = {
 
     // Custom theme, applied to `procyon` theme
     customTheme: {
-      #e9edf0
+  
       primary: '#e9edf0',
       //primary: '#fc055b',
       secondary: '#219aaf',
