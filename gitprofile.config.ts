@@ -170,7 +170,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'United International University',
-      degree: 'B.Sc. Engnieering Computer Science And Engineering',
+      degree: 'B.Sc. Engnieering in Computer Science And Engineering',
       from: '2023',
       to: '2027',
     },
@@ -217,7 +217,7 @@ const CONFIG = {
   },
 
    themeConfig: {
-    defaultTheme: 'pastel',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
