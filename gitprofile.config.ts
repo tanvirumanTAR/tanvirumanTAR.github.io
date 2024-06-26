@@ -272,8 +272,8 @@ const CONFIG = {
   
       primary: '#00FF00',
       //primary: '#fc055b',
-      secondary: '#FF00FF',
-      accent: '	#FF0000',
+      secondary: '#FFFFFF',
+      accent: '#FFFFFF',
      // accent: '#e8d03a',
     neutral: '#000000',
       'base-100': '#FFFFFF',
