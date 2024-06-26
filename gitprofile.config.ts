@@ -143,22 +143,22 @@ const CONFIG = {
     //'Antd',
     //'Tailwind',
   ],
- /* experiences: [
+ experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'UIU Robotics',
+      position: 'Volunteer',
+      from: 'January 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://bd.linkedin.com/company/uiu-robotics',
     },
-    {
+   /* {
       company: 'Company Name',
       position: 'Position',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
-    },
-  ],*/
+    },*/
+  ],
  /* certifications: [
     {
       name: 'Lorem ipsum',
