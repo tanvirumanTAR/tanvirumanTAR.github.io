@@ -276,7 +276,7 @@ const CONFIG = {
       accent: '#db1616',
      // accent: '#e8d03a',
     neutral: '#000000',
-      'base-100': '#E3E3ED',
+      'base-100': '#fcffff',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
