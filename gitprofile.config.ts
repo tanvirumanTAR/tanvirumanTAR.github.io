@@ -270,10 +270,10 @@ const CONFIG = {
     // Custom theme, applied to `procyon` theme
     customTheme: {
   
-      primary: '#e9edf0',
+      primary: '#00FF00',
       //primary: '#fc055b',
-      secondary: '#16dbcb',
-      accent: '#db1616',
+      secondary: '#FF00FF',
+      accent: '	#FF0000',
      // accent: '#e8d03a',
     neutral: '#000000',
       'base-100': '#FFFFFF',
